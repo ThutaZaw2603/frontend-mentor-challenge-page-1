@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./ss-phone.jpg)
-![](./ss-laptop.jpg)
+![](./ss-phone.png)
+![](./ss-laptop.png)
 
 
 
